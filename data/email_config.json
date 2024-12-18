@@ -1,0 +1,6 @@
+{
+    "smtp_server": "your smtp server",
+    "smtp_port": 25,
+    "sender_address": "your email address",
+    "sender_password": "your emial password"
+}

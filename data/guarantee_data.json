@@ -1,0 +1,15 @@
+{
+    "last_modified_time": "1月1日凌晨",
+    "members": [
+        {
+            "wechat_id": "example_wechatID",
+            "name": "example_name",
+            "record": 1,
+            "last_enrolled_date": "2024-10-25",
+            "missed_activities": [
+                "example_activity1"
+            ],
+            "last_participated_activity": "exmaple_activity2"
+        }
+    ]
+}
